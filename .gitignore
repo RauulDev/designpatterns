@@ -2,3 +2,5 @@ Prototype/bin/Debug/*
 Prototype/obj/*
 Singleton/bin/*
 Singleton/obj/*
+FactoryMethod/bin/*
+FactoryMethod/obj/*
